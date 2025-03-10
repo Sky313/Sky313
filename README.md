@@ -6,9 +6,9 @@
 
 💞️ I’m looking to collaborate on Deep Learning projects
 
-📫 You can reach me by surya.govindarajan@stud.uni-hannover.de
+📫 You can reach me by suryagovindarajan97@gmail.com
 
-Please do visit Sky313/Projects repo for further browsing
+Please do visit my other repos for further browsing
 
 <!---
 Sky313/Sky313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
