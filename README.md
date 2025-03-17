@@ -2,8 +2,6 @@
 
 👀 I’m interested in Machine Learning and Deep Learning projects
 
-🌱 I’m currently learning Mechatronics at Leibniz Universität Hannover
-
 💞️ I’m looking to collaborate on Deep Learning projects
 
 📫 You can reach me by suryagovindarajan97@gmail.com
