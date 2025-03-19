@@ -1,4 +1,4 @@
-👋 Hi, I’m @Sky313
+👋 Hi, I’m Surya Govindarajan, @Sky313
 
 👀 I’m interested in Machine Learning and Deep Learning projects
 
